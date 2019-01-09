@@ -20,7 +20,7 @@ I got all components on local stores and AliExpress, the complete built cost me 
 
 ## Software.
 
-Well, since it is an Atmega32A, you can totaly program it using Arduino IDE.
+Well, since it is an Atmega32A, you can totaly program it using Arduino IDE(You don't need to).
 I haven't had enough time to write some beautiful program yet, but the demo code included is just enough to test and proof your circuit is working.
 
 Yes I will put more code here later..
