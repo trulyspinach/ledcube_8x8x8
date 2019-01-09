@@ -12,7 +12,7 @@ My goal is to build a compact LED cube. A lot of cube built i found on Internet 
 
 The microcontroller is Atmega32A, the reason of choosing AVR is just because they are simple and really cheap to get, and the 32A model have a fairly enough amount of pins available. Then eight 574s are used for multiplexing IOs. No big deals, pretty simple.
 
-To build this, all you need is around 600 hundreds of LEDs. Only 512 are needed, but when you purchasing cheap LEDs, it is likely that some of them will malfunctions. And some resisitor, caps for the motherboard.
+To build this, all you need is around 6 hundreds of LEDs. Only 512 are needed, but when you purchasing cheap LEDs, it is likely that some of them will malfunctions. And some resisitor, caps for the motherboard.
 
 ![pcb](https://raw.githubusercontent.com/trulyspinach/ledcube_8x8x8/master/img/pcb.png)
 
